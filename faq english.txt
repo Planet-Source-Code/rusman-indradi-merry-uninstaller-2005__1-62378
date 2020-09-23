@@ -1,0 +1,106 @@
+=============================================================================== 
+1. BACKGROUND
+=============================================================================== 
+MERY Uninstaller 2003 is program of Add\Remove used to vanish Program which installed in computer. 
+this Program very easy used, you enough click 2x name of file which there are in list, then this program automatically Uninstall you which have choose to uninstall.
+Besides program of uninstall this program also additional function, among others :
+- Editing Entry Uninstall Registry 
+- Delete Entry Uninstall Register 
+- Making new Entry Unintall Registry 
+- Menyimpan and print report concerning information of installasi program 
+- Making To back up registry ( import and export of registry )
+- See information concerning program in detail 
+- See Location program group ( Programs Group) which there are in directory of Windows 
+- Editing entry of registry direct uninstall of regedit.
+
+===============================================================================
+2. HOW TO UNINSTALL PROGRAM ?
+===============================================================================
+way of running Uninstall program that is : 
+- Click 2x program which wish in uninstall in view list, if program of uninstall run success, then depress to clean this   matter good for vanishing existing entry in registry. 
+
+  attention : if program do not become in uninstall or canceled by hence depressing "cancelation" and don't depress 
+  "clear".
+- Way of is same can pass menu 'Uninstall' - Uninstal icon by clicking last right choose uninstall.
+
+===============================================================================
+3. HOW TO BACK UP REGISTRY ?
+===============================================================================
+   a. FISH-NET BACK UP REGISTRY
+       Its way that is :
+	- click of Icon back up or by clicking last right selected to back up Uninstall registry.
+        - At the (time) of backing up to be run by hence registry which relate [at] program will be 
+	  presented in the form of text.
+   b. SAVE BACKUP REGISTRY
+ 	- Write the name of file back up kemuadian keep the file.
+   c. PRESENTING AND SAVING BACK UP REGISTRY
+ 	- Say The Word Check "Back Up All Uninstall ( Key)" then keep the file.
+   d. RETURNING FILE BACK UP TO - REGISTRY
+ 	- Right click at view tree "Export back up registry" hence automatically file back up will in returning into 	            registry.
+   e. DELETE FILE BACK UP
+ 	- right click at view tree "Delete File back up" then depress ok to delete file back up which have been selected.
+   f. REFRESH
+ 	- To conduct Refresh or restating at view tree.
+===============================================================================
+4. HOW TO EDIT - REMOVE - ADD NEW ENTRY AT REGISTRY ?
+===============================================================================
+   a. EDIT ENTRY
+        - Choose the name of file of install which wish in editing then make a change. 
+   b. REMOVE ENTRY
+        - Choose the name of file of installasi which wish in remove then do abolition ( attention : before remove better               select first govern uninstall - so that process of uninstall at program admit of to be run ).
+   c. MAKE NEW ENTRY
+        - Write the name of key of registry :
+          Example: My Program.
+        - Write the name of file :
+          Example: Name of my program genuiness.
+        - Write comand of uninstall :
+          Example: C:\Program Files\Setup Generator\Uninstall.Exe.
+
+===============================================================================
+5. EDITING ENTRY of REGISTRY DIRECT UNINSTALL OF REGEDIT
+===============================================================================
+You earn direct edit entry of registry uninstall of regedit with key ( key) "Uninstal". 
+location lock at register shall be as follows :
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{Program} ]
+
+===============================================================================
+6. HOW SAVING AND PRINT INFORMATION REPORT of INSTALLASI PROGRAM ?
+===============================================================================
+- click of Icon "Report" or right click choose "Report" then do choice for information to be printed or kept.
+
+===============================================================================
+7. WHAT USEFULNESS OF REFRESH IN LIST VIEW ?
+===============================================================================
+- Do data refresh in view list if needed, this matter good for reading again file information in registry if happened expurgation or change and also abolition.
+
+===============================================================================
+8. SEE PROGRAM of GROUP AT DIREKTORY WINDOWS
+===============================================================================
+- You earn to see some program group which is installed in your directory. 
+this program group d] not fully represent group of installasi single, some oil lamp- its 
+par represent program sub of program of window. 
+as information, this program group in directory of start menu.
+  
+===============================================================================
+9. OPTIONS OR CHOICE
+===============================================================================
+this Choice dialogue good for doing some setting, among others: 
+- Presenting view list pursuant to small icon, big icon, list and in detail 
+- Sort text in listview pursuant to massage to the or massage under 
+- Making some shortcut to facilitate and quicken denominating of program 
+- Dialogue uninstall can be presented [by] if wanted at the time of conducting uninstall,
+if you feel to be dialogued by this bother, you earn meng deactivate it without saying the word cheque.
+
+===============================================================================
+10. REPORT of BUGS
+===============================================================================
+If you find bugs at this program is you earn reporting it to :
+
+Contact :
+- support@e-galaxymall.com
+- Rusman_Indradi@yahoo.com
+- http://www.e-galaxymall.com
+
+Copyright © 2002 - 2003 selsun software
+By : Rusman Indradi
+All rights reserved
